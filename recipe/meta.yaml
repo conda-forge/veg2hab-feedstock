@@ -1,5 +1,5 @@
 {% set name = "veg2hab" %}
-{% set version = "1.1.0" %}
+{% set version = "1.1.1" %}
 {% set python_min = "3.10" %}
 
 package:
