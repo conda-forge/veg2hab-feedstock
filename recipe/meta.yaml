@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/veg2hab-{{ version }}.tar.gz
-  sha256: e04ca3d189b4f862b6c746d6ff0a6fe35270a945be80497fd30c4411b2c9d69c
+  sha256: 09d478871cea893bf8bd941fc089a2a6915286c168278707777899dc8f04c4b0
 
 build:
   entry_points:
