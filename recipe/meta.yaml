@@ -1,5 +1,5 @@
 {% set name = "veg2hab" %}
-{% set version = "1.1.2a6" %}
+{% set version = "1.1.2" %}
 {% set python_min = "3.10" %}
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/veg2hab-{{ version }}.tar.gz
-  sha256: db544ba27a7e3f83e6a6e5a68d4b42b259fc00e063611190e6582dab826d8751
+  sha256: 944d96061b13f8e8491aafae6ea6a684fef534aaa1ca17fbd754c4085a5fea37
 
 build:
   entry_points:
